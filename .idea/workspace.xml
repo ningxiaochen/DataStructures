@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f08b316-d623-4264-a3af-883c9dcc69bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f08b316-d623-4264-a3af-883c9dcc69bd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +12,13 @@
     <SUITE FILE_PATH="coverage/DataStructures$disorderString.coverage" NAME="disorderString Coverage Results" MODIFIED="1583133684217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS1-interoduction" />
     <SUITE FILE_PATH="coverage/DataStructures$practise01.coverage" NAME="practise01 Coverage Results" MODIFIED="1583130486731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS1-interoduction" />
     <SUITE FILE_PATH="coverage/DataStructures$stackPractise01.coverage" NAME="stackPractise01 Coverage Results" MODIFIED="1583303651789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS1-interoduction" />
+    <SUITE FILE_PATH="coverage/DataStructures$stackPractise02.coverage" NAME="stackPractise02 Coverage Results" MODIFIED="1583308043923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DS1-interoduction" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="773401649">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -29,25 +28,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="2700" />
+          <entry key="py" value="3061" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="2700" />
+          <entry key="Python" value="3061" />
         </counts>
       </usages-collector>
     </session>
@@ -55,13 +54,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DS1-interoduction/stackPractise01.py">
+        <entry file="file://$PROJECT_DIR$/DS1-interoduction/stackPractise02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            <state relative-caret-position="112">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
-                <marker date="1583304169064" expanded="true" signature="100:462" ph="..." />
-                <marker date="1583304169064" expanded="true" signature="1355:1360" ph="..." />
+                <marker date="1583307879150" expanded="true" signature="105:112" ph="..." />
+                <marker date="1583307879150" expanded="true" signature="506:511" ph="..." />
               </folding>
             </state>
           </provider>
@@ -85,6 +84,7 @@
         <option value="$PROJECT_DIR$/DS1-interoduction/disorderString.py" />
         <option value="$PROJECT_DIR$/DS1-interoduction/listPractisel.py" />
         <option value="$PROJECT_DIR$/DS1-interoduction/stackPractise01.py" />
+        <option value="$PROJECT_DIR$/DS1-interoduction/stackPractise02.py" />
       </list>
     </option>
   </component>
@@ -129,6 +129,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\宁晓晨\Desktop\DataStructures\DS1-interoduction" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\宁晓晨\Desktop\DataStructures" />
     </key>
@@ -145,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stackPractise01">
+  <component name="RunManager" selected="Python.stackPractise02">
     <configuration name="disorderString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,13 +215,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="stackPractise02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS1-interoduction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS1-interoduction/stackPractise02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.practise01" />
       <item itemvalue="Python.disorderString" />
       <item itemvalue="Python.stackPractise01" />
+      <item itemvalue="Python.stackPractise02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.stackPractise02" />
         <item itemvalue="Python.stackPractise01" />
         <item itemvalue="Python.disorderString" />
         <item itemvalue="Python.practise01" />
@@ -251,7 +278,7 @@
     <frame x="760" y="0" width="783" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25931033" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3034483" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -327,6 +354,17 @@
           <folding>
             <marker date="1583304169064" expanded="true" signature="100:462" ph="..." />
             <marker date="1583304169064" expanded="true" signature="1355:1360" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DS1-interoduction/stackPractise02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <marker date="1583307879150" expanded="true" signature="105:112" ph="..." />
+            <marker date="1583307879150" expanded="true" signature="506:511" ph="..." />
           </folding>
         </state>
       </provider>
